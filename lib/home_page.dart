@@ -34,7 +34,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       fontSize: 14,
                       fontWeight: FontWeight.bold),
                 ),
-              ),git
+              ),
               subtitle: Row(
                 children: [
                   Text(

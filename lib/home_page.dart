@@ -30,11 +30,11 @@ class _MyHomePageState extends State<MyHomePage> {
                 child: Text(
                   'Friend Name',
                   style: TextStyle(
-                      color: Colors.blue.shade900,
-                      fontSize: 16,
+                      color: Colors.blue,
+                      fontSize: 14,
                       fontWeight: FontWeight.bold),
                 ),
-              ),
+              ),git
               subtitle: Row(
                 children: [
                   Text(
